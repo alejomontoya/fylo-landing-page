@@ -75,9 +75,6 @@ input {
   padding-right: 2.5em;
 }
 
-.hero__image {
-  width: 700px;
-}
 
 .info__form {
   height: 40px;
@@ -281,9 +278,6 @@ input {
     grid-template-columns: 1fr;
     grid-template-areas: 'image'
                           'info';
-  }
-  .hero__image {
-    width: auto;
   }
 
   .hero__info .info__title {
