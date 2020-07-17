@@ -361,7 +361,7 @@ input {
 
 @media screen and (max-width: 375px) {
   .header nav ul { 
-    width: 250px;
+    width: 240px;
     padding-left: 0;
   }
 }
