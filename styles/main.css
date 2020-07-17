@@ -294,6 +294,8 @@ input {
   .hero__info .info__description {
     text-align: center;
     font-family: 1em;
+    padding-right: 0;
+
   }
   .hero__info .info__form {
     display: grid;
